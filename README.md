@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VRUSHAL PATILh - Resume</title>
+    <title>VRUSHAL PATIL - Resume</title>
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
@@ -181,7 +181,7 @@
         <div class="contact-info">
             <ul>
                 <li><i class="fas fa-phone-alt"></i>7030413141</li>
-                <li><i class="fas fa-envelope"></i> <a href="mailto:VRUSHAL PATILh3262@gmail.com">VRUSHAL PATILh3262@gmail.com</a></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:vrushalpatil8864@gmail.com">VRUSHAL PATILh3262@gmail.com</a></li>
                 <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">LinkedIn</a></li>
                 <li><i class="fab fa-github"></i> <a href="https://github.com/VRUSHAL PATIL" target="_blank">GitHub</a></li>
             </ul>
